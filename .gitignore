@@ -1,4 +1,4 @@
 *.html
 *.txt
-/__pycache__
+/test_case/__pycache__/
 .DS_Store
